@@ -1,0 +1,6 @@
+.DS*
+*.fig
+*.pdf
+*.eps
+*.asv
+*.jpg

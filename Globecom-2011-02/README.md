@@ -1,0 +1,1 @@
+Simulation for [Joint Relay and Jammer Selection for Secure Decode-and-Forward Two-Way Relay Communications](http://ieeexplore.ieee.org/document/6133875/?arnumber=6133875&contentType=Conference%20Publications) at [Global Telecommunications Conference (GLOBECOM 2011), 2011 IEEE](http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6132211)

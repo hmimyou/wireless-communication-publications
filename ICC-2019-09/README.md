@@ -1,0 +1,1 @@
+Simulation for [Joint relay and jammer selection for secure two-way relay networks](http://ieeexplore.ieee.org/abstract/document/5962776/), [Communications (ICC), 2011 IEEE International Conference on](http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=5962386)

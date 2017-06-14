@@ -1,0 +1,14 @@
+XE=0.5+1j;
+XS1=0.00001+0.0001j;
+XS2=1+0.00001j;
+XInCenter=0.5+0.00001j;
+XIn=[XInCenter,XInCenter+0.02+0.02j,XInCenter-0.02-0.02j,XInCenter-0.02+0.02j,XInCenter+0.02-0.02j,XInCenter+0.05+0.03j,XInCenter-0.05+0.02j,XInCenter-0.03+0.05j];
+InterNodeNum=6;
+
+Ts=0.1;
+TotalTestNum=1;     % number of  test loop, for averaging the outage probability
+Framelength=4000;
+MaxFramelength=4^6*Framelength;
+ErrNum=100;           % register the error bit number. 
+TestStep=0.5;            % Power Ratio Step
+SigmaN=1;
